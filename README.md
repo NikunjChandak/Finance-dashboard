@@ -35,6 +35,4 @@ State management is handled by **Zustand**. For a dashboard, Zustand is optimal:
 =======
 # Finance-dashboard
 
-
-hi
 >>>>>>> 922e748f2d843fa55be5405f072f5798bd14299c
