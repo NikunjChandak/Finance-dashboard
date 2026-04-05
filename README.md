@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Dashboard UI
 
 A visually appealing, highly interactive, and intuitive front-end finance dashboard simulating role-based access, persistence, and state management.
@@ -31,3 +32,9 @@ State management is handled by **Zustand**. For a dashboard, Zustand is optimal:
 4. **Insights Section**: Custom logic maps over the transaction history to identify key trends seamlessly (Highest Spending Category, MoM comparison percentages, and Savings Rate).
 5. **Dark Mode**: Configured seamlessly using root CSS variables and conditionally bound class names toggled by Zustand.
 6. **Data Persistence**: Refresh the page! By taking advantage of Zustand's `persist` middleware, adding or removing a transaction permanently saves to your browser.
+=======
+# Finance-dashboard
+
+
+hi
+>>>>>>> 922e748f2d843fa55be5405f072f5798bd14299c
